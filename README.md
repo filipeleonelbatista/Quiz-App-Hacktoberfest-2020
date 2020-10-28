@@ -1,4 +1,6 @@
-<img width="100%" src=".github/icon.png">
+<p align="center"> 
+<img width="100" src=".github/icon.png">
+</p>
 
 <h1 align="center">Quiz App - Hacktoberfest</h1>
 
