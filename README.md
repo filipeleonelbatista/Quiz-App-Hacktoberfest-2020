@@ -32,7 +32,7 @@ Conhecimentos que adquiri neste projeto:
 
  - Carregar as perguntas de um JSON ao invés de ultilizar um banco de dados
  - Validação manual dos campos de entrada de dados;
- - Desenvolvimento seguindo o layout criado no [Figma](https://www.figma.com/file/mwduW23QB02gbZYqwXIMSE/Countdown-Timer-App);
+ - Desenvolvimento seguindo o layout criado no [Figma](https://github.com/filipeleonelbatista/Quiz-App-Hacktoberfest-2020/raw/main/.github/Quiz%20App%20-%20Hacktoberfest.fig);
  - Trabalhar com o [Google Fonts](https://fonts.google.com/) usando [Expo](https://github.com/expo/google-fonts);
  - Usar ``Recbutton`` para se ter os efeitos de botões nativos;
  - Usar ``Feathericons`` através do ``@expo-vector-icons``;
