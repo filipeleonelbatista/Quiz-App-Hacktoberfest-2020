@@ -45,7 +45,7 @@ Conhecimentos que adquiri neste projeto:
         <img width="150" src=".github/android.svg">
     </a>
     <a href="#">
-        <img style="opacity: 0.3;" width="150" src="assets/iphone.png">
+        <img style="opacity: 0.3;" width="150" src=".github/iphone.png">
     </a>
 </p>
 
