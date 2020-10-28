@@ -1,4 +1,10 @@
-<img width="100%" src="assets/banner.JPG">
+<img width="100%" src=".github/icon.png">
+
+<h1 align="center">Quiz App - Hacktoberfest</h1>
+
+---
+
+<img width="100%" src=".github/screens.png">
 
 # Indice
 
@@ -9,27 +15,26 @@
 
 ## 🔖&nbsp; Sobre
 
-Projeto desenvolvido seguindo as idéias da lista <a target="_blank" href="https://github.com/florinpop17/app-ideas">App Ideas Collection</a>. Link para a User History deste projeto pode ser encontrado [aqui](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Countdown-Timer-App.md).
+Projeto desenvolvido para participar do Hacktoberfest da Digital Ocean. Desafio desenvolvido pela comunidade do DevChallenge.
 
 ---
 ## Aprendizados
 
 Conhecimentos que adquiri neste projeto:
 
- -  Gravar dados localmente com [AsyncStorage](https://github.com/react-native-community/async-storage) do React-Native;
- - Atualizar os dados do [AsyncStorage](https://github.com/react-native-community/async-storage) para remover itens da listagem;
+ - Carregar as perguntas de um JSON ao invés de ultilizar um banco de dados
  - Validação manual dos campos de entrada de dados;
  - Desenvolvimento seguindo o layout criado no [Figma](https://www.figma.com/file/mwduW23QB02gbZYqwXIMSE/Countdown-Timer-App);
  - Trabalhar com o [Google Fonts](https://fonts.google.com/) usando [Expo](https://github.com/expo/google-fonts);
  - Usar ``Recbutton`` para se ter os efeitos de botões nativos;
- - Usar ``Feathericons`` através do expo ``vector-icons``;
+ - Usar ``Feathericons`` através do ``@expo-vector-icons``;
 
 ---
 ## Download
 
 <p>
-    <a href="https://github.com/filippeleonelbatista/App-Ideas-CTA/raw/master/assets/Countdown-Timer-App.apk">
-        <img width="150" src="assets/android.svg">
+    <a href="https://github.com/filipeleonelbatista/Quiz-App-Hacktoberfest-2020/raw/main/.github/Quiz%20App%20-%20Hacktoberfest.apk">
+        <img width="150" src=".github/android.svg">
     </a>
     <a href="#">
         <img style="opacity: 0.3;" width="150" src="assets/iphone.png">
@@ -43,10 +48,10 @@ Conhecimentos que adquiri neste projeto:
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/filipeleonelbatista/App-Ideas-CTA.git
+    $ git clone https://github.com/filipeleonelbatista/Quiz-App-Hacktoberfest-2020.git
 
     # Entrar no diretório desejado
-    $ cd mobile
+    $ cd Quiz-App-Hacktoberfest-2020\app
 
     # Instalar as dependências
     $ yarn install
